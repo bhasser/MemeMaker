@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ImageGalleryDemoActivity!</string>
+    <string name="app_name">Meme Maker</string>
+    <string name="title_activity_rotator">Rotator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_rotate">Rotate</string>
+
+</resources>
